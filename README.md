@@ -41,7 +41,7 @@ The simulation employs a hybrid strategy that leverages the unique strengths of 
 1.  **Clone the repository:**
 
     ```bash
-    git clone <https://github.com/rooz1300/Back-stepping-Prescribed-Time-Sliding-Mode-Control-of-a-Quadrotor-UAV>
+    git clone https://github.com/rooz1300/Back-stepping-Prescribed-Time-Sliding-Mode-Control-of-a-Quadrotor-UAV
     run main.ipynb
     ```
 
