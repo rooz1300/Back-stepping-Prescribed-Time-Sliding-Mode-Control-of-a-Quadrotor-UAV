@@ -2,7 +2,7 @@
 
 # Advanced Quadrotor Control Simulation: Back-stepping & Sliding Mode Control
 
-This repository contains a Python simulation of a sophisticated hybrid control strategy for a quadrotor UAV. The controller is designed for high-precision trajectory tracking, combining a **Back-stepping Prescribed-Time Controller (PTC)** with a **Sliding Mode Controller (SMC)** to achieve superior performance and robustness.
+This repository contains Python code that implements a hybrid control strategy for a quadrotor UAV, combining Back-stepping Prescribed-Time Control (PTC) and Sliding Mode Control (SMC). The aim is to achieve precise trajectory tracking within a user-defined preset time, while also demonstrating robustness against variations in initial conditions. This implementation is based on the research presented in the paper "Back-stepping Prescribed-Time Sliding Mode Control of a Quadrotor UAV" by Roozbeh Badiei, Mohammad Bagher Sajjadi, Amir Hossein Davaie-Markazi, and Moosa Ayati. The paper was presented at the 2024 12th RSI International Conference on Robotics and Mechatronics (ICROM) with DOI: 10.1109/ICROM64545.2024.10903605 
 
 The core objective is to force the UAV's tracking errors to converge to zero within a user-defined time, regardless of the initial conditions, and to maintain stability even when subjected to faults and disturbances.
 
