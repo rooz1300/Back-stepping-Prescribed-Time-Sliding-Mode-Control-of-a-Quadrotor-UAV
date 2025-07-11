@@ -20,7 +20,7 @@ The core objective is to force the UAV's tracking errors to converge to zero wit
 
 -----
 
-## 🔧 Control Strategy Explained
+## 🔧 Control Strategy 
 
 The simulation employs a hybrid strategy that leverages the unique strengths of two different advanced controllers.
 
